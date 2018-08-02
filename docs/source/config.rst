@@ -8,6 +8,8 @@ There are 8 different sections :
     :db_config: Location of SQLI database configuration
     :dorks: Location of dorks
     :user_dorks: Location of user dorks
+    :crawler_stats: Location of list of crawler user-agents
+    :geo_db: Location of database of geo-ip info
   * **TANNER**
 
     :host: The host at which Tanner is running
